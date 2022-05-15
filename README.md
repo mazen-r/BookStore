@@ -24,4 +24,6 @@ created books folder in templates it has
 book_details contains details about specific book
 book_list contains a list of all availlable books  
 Reviews model it connects to books using ForeignKey  
-Added search that can gets the results from book list
+Added search that can gets the results from book list  
+
+Deplyed version: https://mazen-bookstore.herokuapp.com/
